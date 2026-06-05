@@ -21,6 +21,11 @@ export default function SignUp() {
       await signIn.social({
         provider: "google",
         callbackURL: "/dashboard",
+        fetchOptions: {
+          onError: (ctx) => {
+            setError(ctx.error.message || "Failed to sign in with Google")
+          }
+        }
       })
     } catch (err) {
       setError(err.message || "Failed to sign in with Google")
@@ -35,11 +40,16 @@ export default function SignUp() {
         email: signupEmail,
         password: signupPassword,
         name: signupName,
+        fetchOptions: {
+          onError: (ctx) => {
+            setError(ctx.error.message || "Signup failed")
+          }
+        }
       })
-      if (result.error) {
+      if (result?.error) {
         setError(result.error.message || "Signup failed")
       } else {
-        router.push("/dashboard")
+        router.push("/login")
       }
     } catch (err) {
       setError(err.message || "Signup failed")
@@ -56,6 +66,11 @@ export default function SignUp() {
       <main className={styles.main}>
         <div>
             <h1>Sign Up</h1>
+            {error && (
+              <p style={{ color: "red", fontSize: "0.875rem", marginBottom: "0.5rem" }}>
+                {error}
+              </p>
+            )}
             <form className={styles.authform} onSubmit={handleEmailSignup}>
                 <label htmlFor="name">Enter username</label>
                 <input type="name" id="name" name="name" required value={signupName} onChange={(e) => setSignupName(e.target.value)} />

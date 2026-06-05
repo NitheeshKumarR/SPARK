@@ -1,0 +1,49 @@
+<svg width="100%" viewBox="0 0 680 680" role="img" xmlns="http://www.w3.org/2000/svg" style="">
+  <title style="fill:rgb(0, 0, 0);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">SPARK logo</title>
+  <desc style="fill:rgb(0, 0, 0);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">Minimalist logo for SPARK — Smart Planner and Roadmap Kit. A stylized brain outline with a lightning bolt spark at center, in deep violet and electric yellow on a dark background, 1:1 ratio.</desc>
+
+  <defs>
+    <clipPath id="circle-clip">
+      <circle cx="340" cy="340" r="300"/>
+    </clipPath>
+  </defs>
+
+  <!-- Background circle — dark deep violet -->
+  <circle cx="340" cy="340" r="300" fill="#1A1040" style="fill:rgb(26, 16, 64);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+  <!-- Brain outline — left hemisphere -->
+  <path d="&#10;    M 240 220&#10;    C 200 200, 165 210, 155 240&#10;    C 140 270, 150 300, 145 330&#10;    C 138 360, 130 385, 150 415&#10;    C 168 440, 200 450, 230 448&#10;    C 240 447, 250 445, 260 442&#10;    L 260 380&#10;    C 230 365, 215 340, 220 310&#10;    C 225 285, 245 268, 260 260&#10;    L 260 220&#10;    Z&#10;  " fill="none" stroke="#8B5CF6" stroke-width="9" stroke-linecap="round" stroke-linejoin="round" style="fill:none;stroke:rgb(139, 92, 246);color:rgb(255, 255, 255);stroke-width:9px;stroke-linecap:round;stroke-linejoin:round;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+  <!-- Brain outline — right hemisphere -->
+  <path d="&#10;    M 440 220&#10;    C 480 200, 515 210, 525 240&#10;    C 540 270, 530 300, 535 330&#10;    C 542 360, 550 385, 530 415&#10;    C 512 440, 480 450, 450 448&#10;    C 440 447, 430 445, 420 442&#10;    L 420 380&#10;    C 450 365, 465 340, 460 310&#10;    C 455 285, 435 268, 420 260&#10;    L 420 220&#10;    Z&#10;  " fill="none" stroke="#8B5CF6" stroke-width="9" stroke-linecap="round" stroke-linejoin="round" style="fill:none;stroke:rgb(139, 92, 246);color:rgb(255, 255, 255);stroke-width:9px;stroke-linecap:round;stroke-linejoin:round;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+  <!-- Brain top arch connecting both hemispheres -->
+  <path d="&#10;    M 260 220&#10;    C 270 195, 300 178, 340 176&#10;    C 380 178, 410 195, 420 220&#10;  " fill="none" stroke="#8B5CF6" stroke-width="9" stroke-linecap="round" style="fill:none;stroke:rgb(139, 92, 246);color:rgb(255, 255, 255);stroke-width:9px;stroke-linecap:round;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+  <!-- Center dividing line (corpus callosum hint) -->
+  <path d="M 310 370 Q 340 380 370 370" fill="none" stroke="#8B5CF6" stroke-width="5" stroke-linecap="round" opacity="0.5" style="fill:none;stroke:rgb(139, 92, 246);color:rgb(255, 255, 255);stroke-width:5px;stroke-linecap:round;stroke-linejoin:miter;opacity:0.5;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+  <!-- Left neuron branch -->
+  <line x1="220" y1="290" x2="262" y2="300" stroke="#8B5CF6" stroke-width="4" stroke-linecap="round" opacity="0.7" style="fill:rgb(0, 0, 0);stroke:rgb(139, 92, 246);color:rgb(255, 255, 255);stroke-width:4px;stroke-linecap:round;stroke-linejoin:miter;opacity:0.7;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <circle cx="210" cy="286" r="7" fill="#8B5CF6" opacity="0.7" style="fill:rgb(139, 92, 246);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.7;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+  <!-- Right neuron branch -->
+  <line x1="460" y1="290" x2="418" y2="300" stroke="#8B5CF6" stroke-width="4" stroke-linecap="round" opacity="0.7" style="fill:rgb(0, 0, 0);stroke:rgb(139, 92, 246);color:rgb(255, 255, 255);stroke-width:4px;stroke-linecap:round;stroke-linejoin:miter;opacity:0.7;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <circle cx="470" cy="286" r="7" fill="#8B5CF6" opacity="0.7" style="fill:rgb(139, 92, 246);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.7;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+  <!-- Left lower neuron -->
+  <line x1="155" y1="370" x2="213" y2="370" stroke="#8B5CF6" stroke-width="4" stroke-linecap="round" opacity="0.7" style="fill:rgb(0, 0, 0);stroke:rgb(139, 92, 246);color:rgb(255, 255, 255);stroke-width:4px;stroke-linecap:round;stroke-linejoin:miter;opacity:0.7;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <circle cx="148" cy="370" r="7" fill="#8B5CF6" opacity="0.7" style="fill:rgb(139, 92, 246);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.7;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+  <!-- Right lower neuron -->
+  <line x1="525" y1="370" x2="467" y2="370" stroke="#8B5CF6" stroke-width="4" stroke-linecap="round" opacity="0.7" style="fill:rgb(0, 0, 0);stroke:rgb(139, 92, 246);color:rgb(255, 255, 255);stroke-width:4px;stroke-linecap:round;stroke-linejoin:miter;opacity:0.7;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <circle cx="532" cy="370" r="7" fill="#8B5CF6" opacity="0.7" style="fill:rgb(139, 92, 246);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:0.7;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+  <!-- Lightning bolt / spark — center, electric yellow -->
+  <!-- Bold, well-defined, Spotify-style clean shape -->
+  <polygon points="&#10;    355,230&#10;    320,330&#10;    344,330&#10;    325,450&#10;    380,320&#10;    354,320&#10;    375,230&#10;  " fill="#FBBF24" stroke="#1A1040" stroke-width="3" stroke-linejoin="round" style="fill:rgb(251, 191, 36);stroke:rgb(26, 16, 64);color:rgb(255, 255, 255);stroke-width:3px;stroke-linecap:butt;stroke-linejoin:round;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+  <!-- Wordmark -->
+  <text x="340" y="530" text-anchor="middle" font-family="'Helvetica Neue', Arial, sans-serif" font-size="62" font-weight="700" letter-spacing="18" fill="#F5F3FF" style="fill:rgb(245, 243, 255);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Helvetica Neue&quot;, Arial, sans-serif;font-size:62px;font-weight:700;text-anchor:middle;dominant-baseline:auto">SPARK</text>
+  <text x="340" y="565" text-anchor="middle" font-family="'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="400" letter-spacing="3.5" fill="#8B5CF6" style="fill:rgb(139, 92, 246);stroke:none;color:rgb(255, 255, 255);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Helvetica Neue&quot;, Arial, sans-serif;font-size:14px;font-weight:400;text-anchor:middle;dominant-baseline:auto">SMART PLANNER &amp; ROADMAP KIT</text>
+</svg>
